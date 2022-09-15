@@ -1,0 +1,9 @@
+{
+	"id": "BN1sR6EVXuxtj55",
+	"json": "{\"id\":\"BN1sR6EVXuxtj55\",\"url\":\"https://books.toscrape.com/catalogue/category/books/horror_31/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/category/books/horror_31/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/category/books/horror_31/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:22:21.084Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+	"url": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html"
+}

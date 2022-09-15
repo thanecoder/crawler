@@ -1,0 +1,9 @@
+{
+	"id": "6PCbedGaPhsRnPU",
+	"json": "{\"id\":\"6PCbedGaPhsRnPU\",\"url\":\"https://books.toscrape.com/catalogue/category/books/travel_2/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/category/books/travel_2/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/category/books/travel_2/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:09:52.367Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+	"url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html"
+}

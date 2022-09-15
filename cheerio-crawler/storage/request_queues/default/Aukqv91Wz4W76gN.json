@@ -1,0 +1,9 @@
+{
+	"id": "Aukqv91Wz4W76gN",
+	"json": "{\"id\":\"Aukqv91Wz4W76gN\",\"url\":\"https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:22:21.234Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+	"url": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html"
+}

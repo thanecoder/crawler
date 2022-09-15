@@ -1,0 +1,9 @@
+{
+	"id": "gMl04T2fl9SZVwC",
+	"json": "{\"id\":\"gMl04T2fl9SZVwC\",\"url\":\"https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:22:22.161Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+	"url": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html"
+}

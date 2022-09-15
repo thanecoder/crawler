@@ -1,0 +1,9 @@
+{
+	"id": "0lgm70EcGt9a0jG",
+	"json": "{\"id\":\"0lgm70EcGt9a0jG\",\"url\":\"https://books.toscrape.com/catalogue/category/books/historical_42/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/category/books/historical_42/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/category/books/historical_42/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:10:12.243Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+	"url": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html"
+}

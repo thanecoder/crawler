@@ -1,0 +1,9 @@
+{
+	"id": "O1DDZNPy3gS6dmA",
+	"json": "{\"id\":\"O1DDZNPy3gS6dmA\",\"url\":\"https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:22:22.326Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+	"url": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html"
+}

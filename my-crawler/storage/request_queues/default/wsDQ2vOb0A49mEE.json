@@ -1,0 +1,9 @@
+{
+	"id": "wsDQ2vOb0A49mEE",
+	"json": "{\"id\":\"wsDQ2vOb0A49mEE\",\"url\":\"https://books.toscrape.com/catalogue/olio_984/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/olio_984/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/olio_984/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:10:21.947Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/olio_984/index.html",
+	"url": "https://books.toscrape.com/catalogue/olio_984/index.html"
+}

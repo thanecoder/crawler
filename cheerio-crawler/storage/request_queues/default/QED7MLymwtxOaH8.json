@@ -1,0 +1,9 @@
+{
+	"id": "QED7MLymwtxOaH8",
+	"json": "{\"id\":\"QED7MLymwtxOaH8\",\"url\":\"https://books.toscrape.com/index.html\",\"loadedUrl\":\"https://books.toscrape.com/index.html\",\"uniqueKey\":\"https://books.toscrape.com/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:22:19.995Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/index.html",
+	"url": "https://books.toscrape.com/index.html"
+}

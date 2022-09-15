@@ -1,0 +1,9 @@
+{
+	"id": "APlHZ3v1HaJIWiI",
+	"json": "{\"id\":\"APlHZ3v1HaJIWiI\",\"url\":\"https://books.toscrape.com/catalogue/category/books/politics_48/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/category/books/politics_48/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/category/books/politics_48/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:10:13.832Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+	"url": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5NKHWnnex5Boxim",
+	"json": "{\"id\":\"5NKHWnnex5Boxim\",\"url\":\"https://books.toscrape.com/catalogue/sharp-objects_997/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/sharp-objects_997/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/sharp-objects_997/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:10:17.118Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+	"url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+}

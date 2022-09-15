@@ -1,0 +1,9 @@
+{
+	"id": "KS9TU4UOPIoWR90",
+	"json": "{\"id\":\"KS9TU4UOPIoWR90\",\"url\":\"https://books.toscrape.com/catalogue/the-black-maria_991/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/the-black-maria_991/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/the-black-maria_991/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:10:19.873Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+	"url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html"
+}

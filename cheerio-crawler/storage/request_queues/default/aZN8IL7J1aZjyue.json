@@ -1,0 +1,9 @@
+{
+	"id": "aZN8IL7J1aZjyue",
+	"json": "{\"id\":\"aZN8IL7J1aZjyue\",\"url\":\"https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:22:22.260Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+	"url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html"
+}

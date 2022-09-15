@@ -1,0 +1,9 @@
+{
+	"id": "fzF0aLxjNsnTWWx",
+	"json": "{\"id\":\"fzF0aLxjNsnTWWx\",\"url\":\"https://books.toscrape.com/catalogue/category/books/health_47/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/category/books/health_47/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/category/books/health_47/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:10:13.759Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+	"url": "https://books.toscrape.com/catalogue/category/books/health_47/index.html"
+}

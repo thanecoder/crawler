@@ -1,0 +1,9 @@
+{
+	"id": "nbdcW6ff4vAodC6",
+	"json": "{\"id\":\"nbdcW6ff4vAodC6\",\"url\":\"https://books.toscrape.com/catalogue/category/books/self-help_41/index.html\",\"loadedUrl\":\"https://books.toscrape.com/catalogue/category/books/self-help_41/index.html\",\"uniqueKey\":\"https://books.toscrape.com/catalogue/category/books/self-help_41/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-15T03:10:12.042Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+	"url": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html"
+}
